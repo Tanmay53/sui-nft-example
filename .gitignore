@@ -1,0 +1,8 @@
+# Build Folder
+build
+
+# Log Files
+sui.log.*
+
+# Move Lock file
+Move.lock
